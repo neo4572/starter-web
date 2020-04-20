@@ -15,3 +15,8 @@ As stated above, sample website with plenty of files for demos
 This is a simple web project, Deployment can be on any file system.
 
 ## How to contribute
+
+
+### Copyright
+
+202 neo4572 training
