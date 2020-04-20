@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nik Ollek nik@sconeo.net @neo4572
 
 # THANKS
 
