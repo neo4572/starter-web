@@ -8,8 +8,10 @@
 # THANKS
 
     Thanks dude
+    Please leave a review blah blah
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git
