@@ -21,4 +21,4 @@ Please fork this repo and then issue Pull Requests for review.
 
 ### Copyright
 
-202 neo4572 training
+202 neo4572 training. All rights reserved.
